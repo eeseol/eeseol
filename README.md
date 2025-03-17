@@ -27,6 +27,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=esp8266&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)  
+
 
 ### **Networking & Communication Protocols**  
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
@@ -40,6 +42,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![MFC](https://img.shields.io/badge/MFC-0078D7?style=flat&logo=windows&logoColor=white)  
 
 
 ---
