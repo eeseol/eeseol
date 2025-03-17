@@ -1,6 +1,7 @@
 # 🚀 Welcome to My GitHub Profile!  
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Eeseol!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Eeseol!&fontSize=90)
+
 
 ## 👋 About Me
 💡 **Embedded & Software Developer | Robotics & IoT Enthusiast**  
