@@ -6,8 +6,7 @@
 ---
 
 ## 🧠 AI & Backend Projects
-- **Project Name 3** – [GitHub Repo ›](https://github.com/eeseol/mini-rag-lab.git)
-- **Project Name 4** – [GitHub Repo ›](https://github.com/eeseol/your-another-ai-backend-project)
+- **Mini-reg** – [GitHub Repo ›](https://github.com/eeseol/mini-rag-lab.git)
   
 ---
 
