@@ -7,6 +7,7 @@
 
 ## 🧠 AI & Backend Projects
 - **Mini-reg** – [GitHub Repo ›](https://github.com/eeseol/mini-rag-lab.git)
+- **기술유출 사전탐지 프레임워크** – [GitHub Repo ›](https://github.com/eeseol/techleak-risk-framework.git)
   
 ---
 
@@ -25,5 +26,5 @@
 
 ## 📫 How to Reach Me
 - **GitHub**: [github.com/eeseol](https://github.com/eeseol)  
-- **Email**: eeseol@tukorea.ac.kr
+- **Email**: eeseol0322@gmail.com
 - **velog**: https://velog.io/@eeseol/posts
