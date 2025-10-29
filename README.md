@@ -1,7 +1,6 @@
 # 👋 Hi, I’m 이설 (Eeseol)
 
 **🎓 Major:** Mechatronics Engineering & Computer Engineering (dual major)  
-**🔭 Current Role:** Full-time AI & Backend Developer
 
 ---
 
