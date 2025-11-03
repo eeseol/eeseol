@@ -7,6 +7,7 @@
 ## 🧠 AI & Backend Projects
 - **Mini-reg** – [GitHub Repo ›](https://github.com/eeseol/mini-rag-lab.git)
 - **기술유출 사전탐지 프레임워크** – [GitHub Repo ›](https://github.com/eeseol/techleak-risk-framework.git)
+- **STT (음성->텍스트)** – [GitHub Repo ›](https://github.com/eeseol/STT.git)
   
 ---
 
